@@ -1,0 +1,21 @@
+
+/* main.css */
+	.prj-main {
+		width: 100vw;
+		height: 100vh;
+	}
+
+	.prj-head {
+		height: 3vmax;
+		width: 100%;
+		text-align: center;
+		background: #888;
+	}
+
+	#prj-head-title {
+        padding-top: .5vmax;
+		width: 100%;
+		text-transform: uppercase;
+		font-size: 2vmax;
+	}
+/* !end main.css */
